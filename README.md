@@ -1,14 +1,13 @@
 Projeto de uma aplicação web simples de lista de tarefas (To-Do List), onde o usuário pode se registrar, fazer login e gerenciar suas tarefas de forma prática e intuitiva.
 
 Funcionalidades:
+    --Cadastro e login de usuários com autenticação
 
-    -Cadastro e login de usuários com autenticação
+    --Criação, edição e exclusão de tarefas
 
-    -Criação, edição e exclusão de tarefas
+    --Marcar tarefas como concluídas ou pendentes
 
-    -Marcar tarefas como concluídas ou pendentes
-
-    -Acesso restrito às tarefas do usuário logado
+    --Acesso restrito às tarefas do usuário logado
 
 Tecnologias Utilizadas:
 
